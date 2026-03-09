@@ -1,0 +1,26 @@
+{
+    "你好": [
+        {
+            "role": "user",
+            "metadata": null,
+            "content": [
+                {
+                    "text": "你好",
+                    "type": "text"
+                }
+            ],
+            "options": null
+        },
+        {
+            "role": "assistant",
+            "metadata": null,
+            "content": [
+                {
+                    "text": "你好！我是文心一言，很高兴能为你提供帮助。无论是解答问题、辅助创作还是日常聊天，我都会尽力为你提供准确且有用的信息。请问你有什么需要了解或讨论的吗？",
+                    "type": "text"
+                }
+            ],
+            "options": null
+        }
+    ]
+}
